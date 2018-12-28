@@ -9,6 +9,6 @@ Simple Calculator that runs on PC or Desktop, built with custom UI's using JAVA 
 PLEASE NOTE:
 Java JDK must be install on your PC or Destop to run this app
 
-you can follow me on http://acemmanuel.my-free.website
+Find me at http://acemmanuel.my-free.website
 
 Thanks
